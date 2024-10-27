@@ -1,0 +1,5 @@
+﻿  SQLInjection.cpp
+C:\Users\Bryce\Documents\SNHU\CS-405\Module 2\CS 405 M2 SQLInjection code files\SQLInjection.cpp(186,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+MSVCRT.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ)
+C:\Users\Bryce\Documents\SNHU\CS-405\Module 2\CS 405 M2 SQLInjection code files\x64\Release\MQL Inection Code Bryce Cooperrider.exe : fatal error LNK1120: 1 unresolved externals

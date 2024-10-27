@@ -1,0 +1,3 @@
+﻿  SQLInjection.cpp
+C:\Users\Bryce\Documents\SNHU\CS-405\Module 2\CS 405 M2 SQLInjection code files\SQLInjection.cpp(188,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MQL Inection Code Bryce Cooperrider.vcxproj -> C:\Users\Bryce\Documents\SNHU\CS-405\Module 2\CS 405 M2 SQLInjection code files\x64\Debug\MQL Inection Code Bryce Cooperrider.exe
